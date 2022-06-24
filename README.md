@@ -11,4 +11,4 @@ After creating a map with with two different maps and an earthquake overlay, Bas
 
 ## Example Image
 
-![Earthquake Map Image](static/images/EQ_IMG.png)
+![Earthquake Map Image](earthquake-challenge/static/images/EQ_IMG.png)

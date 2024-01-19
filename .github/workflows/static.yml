@@ -38,6 +38,7 @@ jobs:
         with:
           # Upload entire repository
           path: './earthquake-challenge'
+        env:
           API_KEY: ${{ secrets.API_KEY }}
       - name: Deploy to GitHub Pages
         id: deployment
